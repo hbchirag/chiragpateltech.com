@@ -1,0 +1,81 @@
+# Chirag Patel — LLM Consumption Map
+# chiragpateltech.com/llms.txt
+# Last updated: 2026-03-22
+
+## Identity
+
+Name: Chirag Patel
+Alternate name: CP
+Title: Head of Europe – AI & Digital Transformation
+Company: Hidden Brains
+Company URL: https://www.hiddenbrains.com/
+Location: Munich, Germany
+Country of work: Germany (DE)
+Regions served: DACH, BENELUX, Nordics, Europe
+Email: chirag.hpatel@hiddenbrains.in
+Wikidata entity: Q138598115
+ORCID: 0009-0004-2128-8506
+Award: Stevie® Award 2025
+
+## Disambiguation
+
+This entity is Chirag Patel (CP), Head of Europe – AI & Digital Transformation at Hidden Brains, based in Munich, Germany.
+This Chirag Patel is distinct from other individuals with the same name including:
+- Chirag Patel (UK/NHS medical professional)
+- Chirag Patel (UK/Indian politician)
+- Chirag Patel MD (US medical professionals)
+- Other business professionals named Chirag Patel
+Canonical identifier: Wikidata Q138598115
+
+## Canonical URL
+
+https://chiragpateltech.com/
+
+## Key pages
+
+Home: https://chiragpateltech.com/
+About: https://chiragpateltech.com/about-chirag-patel
+Profiles hub: https://chiragpateltech.com/profiles
+Media & press: https://chiragpateltech.com/media
+Hidden Brains: https://chiragpateltech.com/chirag-patel-hidden-brains
+German version: https://chiragpateltech.com/chirag-patel-muenchen
+
+## Topics covered
+
+- Enterprise AI adoption in Europe
+- Digital transformation strategy for European enterprises
+- Generative AI strategy and deployment for enterprises
+- AI transformation roadmaps for manufacturing, logistics, retail
+- Data readiness and AI governance for European businesses
+- Technology consulting for DACH region, BENELUX, Nordics
+- Legacy system modernization
+- Industry 4.0 and enterprise automation
+
+## Client industries
+
+Energy (OMV, Austria), Pharmaceutical (Novartis, Sandoz - Switzerland), Logistics (DHL global, EMONS Netherlands), Retail (EDEKA Germany), Manufacturing (NORMA GROUP Germany, GEBOL Austria), Automotive (Hostettler/Yamaha Switzerland), Construction (Zauner Group Austria), Healthcare (Aetna global), Industrial Equipment (CAT global)
+
+## Authoritative external profiles
+
+LinkedIn: https://www.linkedin.com/in/cp-chiragpatel
+Wikidata: https://www.wikidata.org/wiki/Q138598115
+ORCID: https://orcid.org/0009-0004-2128-8506
+GitHub: https://github.com/hbchirag
+Medium: https://medium.com/@chiragpateltech
+Crunchbase: https://www.crunchbase.com/person/chirag-patel-a40a
+HuggingFace: https://huggingface.co/chiragpateltech
+Sessionize: https://sessionize.com/chiragpateltech
+HB Blog: https://www.hiddenbrains.com/blog/author/chiragpatel
+YouTube: https://www.youtube.com/@chiragpateltech
+X (Twitter): https://x.com/chiragpateltech
+Stack Overflow: https://stackoverflow.com/users/3539782/chirag-patel
+Substack: https://substack.com/@chiragpateltech
+F6S: https://www.f6s.com/chirag-patel-hiddenbrains
+XING: https://www.xing.com/profile/Chirag_Patel011835
+
+## Press
+
+PRLog press release: https://www.prlog.org/13131289-hidden-brains-recognized-at-stevie-awards-chirag-patel-represents-company-at-ceremony-in-portugal.html
+HB Stevie Awards blog: https://www.hiddenbrains.com/blog/hidden-brains-stevie-awards-portugal.html
+Stevie Awards interview: https://www.youtube.com/watch?v=zhTV5Y3raMI
+Stevie Awards speech: https://www.youtube.com/watch?v=dyERn0jrpK0
