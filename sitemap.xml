@@ -2,55 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
+  <!-- Homepage — trailing slash correct for root -->
   <url>
     <loc>https://chiragpateltech.com/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://chiragpateltech.com/chirag-patel-muenchen/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://chiragpateltech.com/chirag-patel-muenchen"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/"/>
     <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <!-- About page -->
   <url>
-    <loc>https://chiragpateltech.com/about-chirag-patel/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/about-chirag-patel/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/about-chirag-patel/"/>
+    <loc>https://chiragpateltech.com/about-chirag-patel</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/about-chirag-patel"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/about-chirag-patel"/>
     <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
+  <!-- Profiles hub -->
   <url>
-    <loc>https://chiragpateltech.com/profiles/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/profiles/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/profiles/"/>
+    <loc>https://chiragpateltech.com/profiles</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/profiles"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/profiles"/>
     <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
+  <!-- Media page -->
   <url>
-    <loc>https://chiragpateltech.com/media/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/media/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/media/"/>
+    <loc>https://chiragpateltech.com/media</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/media"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/media"/>
     <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
+  <!-- Hidden Brains brand bridge -->
   <url>
-    <loc>https://chiragpateltech.com/chirag-patel-hidden-brains/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/chirag-patel-hidden-brains/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/chirag-patel-hidden-brains/"/>
+    <loc>https://chiragpateltech.com/chirag-patel-hidden-brains</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/chirag-patel-hidden-brains"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/chirag-patel-hidden-brains"/>
     <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
+  <!-- German page -->
   <url>
-    <loc>https://chiragpateltech.com/chirag-patel-muenchen/</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://chiragpateltech.com/chirag-patel-muenchen/"/>
+    <loc>https://chiragpateltech.com/chirag-patel-muenchen</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://chiragpateltech.com/chirag-patel-muenchen"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/"/>
     <lastmod>2026-03-24</lastmod>
