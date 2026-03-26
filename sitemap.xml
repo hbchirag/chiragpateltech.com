@@ -64,4 +64,14 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Stevie Award blog -->
+  <url>
+    <loc>https://chiragpateltech.com/blog-stevie-award-ai-transformation</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chiragpateltech.com/blog-stevie-award-ai-transformation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chiragpateltech.com/blog-stevie-award-ai-transformation"/>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
